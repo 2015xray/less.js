@@ -11,7 +11,7 @@
 This is the JavaScript, official, stable version of Less.
 
 
-## Getting Started
+## 开始
 
 Options for adding Less.js to your project:
 
